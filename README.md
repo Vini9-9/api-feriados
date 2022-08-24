@@ -5,3 +5,6 @@ Tecnologias:
 
 * Node com Typescript
 * MongoDB
+
+Tasks:
+- [X] Config desenvolvimento;
